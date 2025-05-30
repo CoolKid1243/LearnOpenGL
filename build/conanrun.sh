@@ -1,1 +1,0 @@
-. "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/build/conanrunenv-debug-armv8.sh"
