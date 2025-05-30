@@ -1,6 +1,45 @@
-# macOS
+# Build artifacts
+build/
+cache/
+
+# macOS system files
 .DS_Store
 
-# Rust
-/target
-**/*.rs.bk
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio Code
+.vscode/
+
+# CLion
+.idea/
+
+# Backup/Temporary
+*~
+*.swp
+*.tmp
