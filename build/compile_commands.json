@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DHAVE_BZIP2 -DOPENDDL_STATIC_LIBARY -DSTB_TEXTEDIT_KEYTYPE=unsigned -isystem /Users/luccathiessen/.conan2/p/b/glfw4a7eee8ab428a/p/include -isystem /Users/luccathiessen/.conan2/p/b/glew74f2eea3d04b7/p/include -isystem /Users/luccathiessen/.conan2/p/glmdf97922a12435/p/include -isystem /Users/luccathiessen/.conan2/p/stb6342cecb318f5/p/include -isystem /Users/luccathiessen/.conan2/p/b/imguieabf406c4ff82/p/include -isystem /Users/luccathiessen/.conan2/p/b/assimfe1c290405572/p/include -stdlib=libc++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -o CMakeFiles/LearnOpenGl.dir/src/main.cpp.o -c /Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/main.cpp",
+  "file": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/main.cpp",
+  "output": "CMakeFiles/LearnOpenGl.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DHAVE_BZIP2 -DOPENDDL_STATIC_LIBARY -DSTB_TEXTEDIT_KEYTYPE=unsigned -isystem /Users/luccathiessen/.conan2/p/b/glfw4a7eee8ab428a/p/include -isystem /Users/luccathiessen/.conan2/p/b/glew74f2eea3d04b7/p/include -isystem /Users/luccathiessen/.conan2/p/glmdf97922a12435/p/include -isystem /Users/luccathiessen/.conan2/p/stb6342cecb318f5/p/include -isystem /Users/luccathiessen/.conan2/p/b/imguieabf406c4ff82/p/include -isystem /Users/luccathiessen/.conan2/p/b/assimfe1c290405572/p/include -stdlib=libc++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -o CMakeFiles/LearnOpenGl.dir/src/camera/camera.cpp.o -c /Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/camera/camera.cpp",
+  "file": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/camera/camera.cpp",
+  "output": "CMakeFiles/LearnOpenGl.dir/src/camera/camera.cpp.o"
+},
+{
+  "directory": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DHAVE_BZIP2 -DOPENDDL_STATIC_LIBARY -DSTB_TEXTEDIT_KEYTYPE=unsigned -isystem /Users/luccathiessen/.conan2/p/b/glfw4a7eee8ab428a/p/include -isystem /Users/luccathiessen/.conan2/p/b/glew74f2eea3d04b7/p/include -isystem /Users/luccathiessen/.conan2/p/glmdf97922a12435/p/include -isystem /Users/luccathiessen/.conan2/p/stb6342cecb318f5/p/include -isystem /Users/luccathiessen/.conan2/p/b/imguieabf406c4ff82/p/include -isystem /Users/luccathiessen/.conan2/p/b/assimfe1c290405572/p/include -stdlib=libc++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -o CMakeFiles/LearnOpenGl.dir/src/editor/editor.cpp.o -c /Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/editor/editor.cpp",
+  "file": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/editor/editor.cpp",
+  "output": "CMakeFiles/LearnOpenGl.dir/src/editor/editor.cpp.o"
+},
+{
+  "directory": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DHAVE_BZIP2 -DOPENDDL_STATIC_LIBARY -DSTB_TEXTEDIT_KEYTYPE=unsigned -isystem /Users/luccathiessen/.conan2/p/b/glfw4a7eee8ab428a/p/include -isystem /Users/luccathiessen/.conan2/p/b/glew74f2eea3d04b7/p/include -isystem /Users/luccathiessen/.conan2/p/glmdf97922a12435/p/include -isystem /Users/luccathiessen/.conan2/p/stb6342cecb318f5/p/include -isystem /Users/luccathiessen/.conan2/p/b/imguieabf406c4ff82/p/include -isystem /Users/luccathiessen/.conan2/p/b/assimfe1c290405572/p/include -stdlib=libc++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -o CMakeFiles/LearnOpenGl.dir/src/editor/panels/bar.cpp.o -c /Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/editor/panels/bar.cpp",
+  "file": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/editor/panels/bar.cpp",
+  "output": "CMakeFiles/LearnOpenGl.dir/src/editor/panels/bar.cpp.o"
+},
+{
+  "directory": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DHAVE_BZIP2 -DOPENDDL_STATIC_LIBARY -DSTB_TEXTEDIT_KEYTYPE=unsigned -isystem /Users/luccathiessen/.conan2/p/b/glfw4a7eee8ab428a/p/include -isystem /Users/luccathiessen/.conan2/p/b/glew74f2eea3d04b7/p/include -isystem /Users/luccathiessen/.conan2/p/glmdf97922a12435/p/include -isystem /Users/luccathiessen/.conan2/p/stb6342cecb318f5/p/include -isystem /Users/luccathiessen/.conan2/p/b/imguieabf406c4ff82/p/include -isystem /Users/luccathiessen/.conan2/p/b/assimfe1c290405572/p/include -stdlib=libc++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -o CMakeFiles/LearnOpenGl.dir/src/editor/panels/hierarchy.cpp.o -c /Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/editor/panels/hierarchy.cpp",
+  "file": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/editor/panels/hierarchy.cpp",
+  "output": "CMakeFiles/LearnOpenGl.dir/src/editor/panels/hierarchy.cpp.o"
+},
+{
+  "directory": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DHAVE_BZIP2 -DOPENDDL_STATIC_LIBARY -DSTB_TEXTEDIT_KEYTYPE=unsigned -isystem /Users/luccathiessen/.conan2/p/b/glfw4a7eee8ab428a/p/include -isystem /Users/luccathiessen/.conan2/p/b/glew74f2eea3d04b7/p/include -isystem /Users/luccathiessen/.conan2/p/glmdf97922a12435/p/include -isystem /Users/luccathiessen/.conan2/p/stb6342cecb318f5/p/include -isystem /Users/luccathiessen/.conan2/p/b/imguieabf406c4ff82/p/include -isystem /Users/luccathiessen/.conan2/p/b/assimfe1c290405572/p/include -stdlib=libc++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -o CMakeFiles/LearnOpenGl.dir/src/editor/panels/settingsWindow.cpp.o -c /Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/editor/panels/settingsWindow.cpp",
+  "file": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/editor/panels/settingsWindow.cpp",
+  "output": "CMakeFiles/LearnOpenGl.dir/src/editor/panels/settingsWindow.cpp.o"
+},
+{
+  "directory": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DHAVE_BZIP2 -DOPENDDL_STATIC_LIBARY -DSTB_TEXTEDIT_KEYTYPE=unsigned -isystem /Users/luccathiessen/.conan2/p/b/glfw4a7eee8ab428a/p/include -isystem /Users/luccathiessen/.conan2/p/b/glew74f2eea3d04b7/p/include -isystem /Users/luccathiessen/.conan2/p/glmdf97922a12435/p/include -isystem /Users/luccathiessen/.conan2/p/stb6342cecb318f5/p/include -isystem /Users/luccathiessen/.conan2/p/b/imguieabf406c4ff82/p/include -isystem /Users/luccathiessen/.conan2/p/b/assimfe1c290405572/p/include -stdlib=libc++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -o CMakeFiles/LearnOpenGl.dir/src/extern/imgui_impl_glfw.cpp.o -c /Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/extern/imgui_impl_glfw.cpp",
+  "file": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/extern/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/LearnOpenGl.dir/src/extern/imgui_impl_glfw.cpp.o"
+},
+{
+  "directory": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DHAVE_BZIP2 -DOPENDDL_STATIC_LIBARY -DSTB_TEXTEDIT_KEYTYPE=unsigned -isystem /Users/luccathiessen/.conan2/p/b/glfw4a7eee8ab428a/p/include -isystem /Users/luccathiessen/.conan2/p/b/glew74f2eea3d04b7/p/include -isystem /Users/luccathiessen/.conan2/p/glmdf97922a12435/p/include -isystem /Users/luccathiessen/.conan2/p/stb6342cecb318f5/p/include -isystem /Users/luccathiessen/.conan2/p/b/imguieabf406c4ff82/p/include -isystem /Users/luccathiessen/.conan2/p/b/assimfe1c290405572/p/include -stdlib=libc++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -o CMakeFiles/LearnOpenGl.dir/src/extern/imgui_impl_opengl3.cpp.o -c /Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/extern/imgui_impl_opengl3.cpp",
+  "file": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/extern/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/LearnOpenGl.dir/src/extern/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DHAVE_BZIP2 -DOPENDDL_STATIC_LIBARY -DSTB_TEXTEDIT_KEYTYPE=unsigned -isystem /Users/luccathiessen/.conan2/p/b/glfw4a7eee8ab428a/p/include -isystem /Users/luccathiessen/.conan2/p/b/glew74f2eea3d04b7/p/include -isystem /Users/luccathiessen/.conan2/p/glmdf97922a12435/p/include -isystem /Users/luccathiessen/.conan2/p/stb6342cecb318f5/p/include -isystem /Users/luccathiessen/.conan2/p/b/imguieabf406c4ff82/p/include -isystem /Users/luccathiessen/.conan2/p/b/assimfe1c290405572/p/include -stdlib=libc++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -o CMakeFiles/LearnOpenGl.dir/src/input/input.cpp.o -c /Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/input/input.cpp",
+  "file": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/input/input.cpp",
+  "output": "CMakeFiles/LearnOpenGl.dir/src/input/input.cpp.o"
+},
+{
+  "directory": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DHAVE_BZIP2 -DOPENDDL_STATIC_LIBARY -DSTB_TEXTEDIT_KEYTYPE=unsigned -isystem /Users/luccathiessen/.conan2/p/b/glfw4a7eee8ab428a/p/include -isystem /Users/luccathiessen/.conan2/p/b/glew74f2eea3d04b7/p/include -isystem /Users/luccathiessen/.conan2/p/glmdf97922a12435/p/include -isystem /Users/luccathiessen/.conan2/p/stb6342cecb318f5/p/include -isystem /Users/luccathiessen/.conan2/p/b/imguieabf406c4ff82/p/include -isystem /Users/luccathiessen/.conan2/p/b/assimfe1c290405572/p/include -stdlib=libc++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -o CMakeFiles/LearnOpenGl.dir/src/object/mesh.cpp.o -c /Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/object/mesh.cpp",
+  "file": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/object/mesh.cpp",
+  "output": "CMakeFiles/LearnOpenGl.dir/src/object/mesh.cpp.o"
+},
+{
+  "directory": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DHAVE_BZIP2 -DOPENDDL_STATIC_LIBARY -DSTB_TEXTEDIT_KEYTYPE=unsigned -isystem /Users/luccathiessen/.conan2/p/b/glfw4a7eee8ab428a/p/include -isystem /Users/luccathiessen/.conan2/p/b/glew74f2eea3d04b7/p/include -isystem /Users/luccathiessen/.conan2/p/glmdf97922a12435/p/include -isystem /Users/luccathiessen/.conan2/p/stb6342cecb318f5/p/include -isystem /Users/luccathiessen/.conan2/p/b/imguieabf406c4ff82/p/include -isystem /Users/luccathiessen/.conan2/p/b/assimfe1c290405572/p/include -stdlib=libc++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -o CMakeFiles/LearnOpenGl.dir/src/object/object.cpp.o -c /Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/object/object.cpp",
+  "file": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/object/object.cpp",
+  "output": "CMakeFiles/LearnOpenGl.dir/src/object/object.cpp.o"
+},
+{
+  "directory": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DHAVE_BZIP2 -DOPENDDL_STATIC_LIBARY -DSTB_TEXTEDIT_KEYTYPE=unsigned -isystem /Users/luccathiessen/.conan2/p/b/glfw4a7eee8ab428a/p/include -isystem /Users/luccathiessen/.conan2/p/b/glew74f2eea3d04b7/p/include -isystem /Users/luccathiessen/.conan2/p/glmdf97922a12435/p/include -isystem /Users/luccathiessen/.conan2/p/stb6342cecb318f5/p/include -isystem /Users/luccathiessen/.conan2/p/b/imguieabf406c4ff82/p/include -isystem /Users/luccathiessen/.conan2/p/b/assimfe1c290405572/p/include -stdlib=libc++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -o CMakeFiles/LearnOpenGl.dir/src/stb.cpp.o -c /Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/stb.cpp",
+  "file": "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/src/stb.cpp",
+  "output": "CMakeFiles/LearnOpenGl.dir/src/stb.cpp.o"
+}
+]

@@ -1,0 +1,11 @@
+[requires]
+glfw/3.4
+glew/2.2.0
+imgui/1.89.9
+assimp/5.3.1
+glm/cci.20230113
+stb/cci.20230920
+
+[generators]
+CMakeDeps
+CMakeToolchain

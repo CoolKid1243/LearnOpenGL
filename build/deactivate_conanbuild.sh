@@ -1,0 +1,1 @@
+. "/Users/luccathiessen/Documents/Programming/C++/LearnOpengl/build/deactivate_conanbuildenv-debug-armv8.sh"
